@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config ServerIP="192.168.3.199" Port="5678" 
+        
+        WEBURL="http://localhost:27375/action.aspx"
+        WEBUSER="" 
+        WEBPASSWORD=""  
+        
+        WEBLOGURL="http://localhost:27375/log.aspx"
+        WEBLOGUSER="" 
+        WEBLOGPASSWORD=""  
+        
+        CLIENTPORT="5678"
+        
+        PAYLOAD="1"
+        PAYLOADBANK="1"
+        PAYLOADLEN="1"
+        PAYLOADOFFSET="0"
+        PAYLOADPASS="16"
+        PAYLOADFILE="BANK_"
+       
+        ></config>
