@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config ServerIP="192.168.1.35" Port="5678" 
+        
+        SERVICENAME="STORAGE:opacholdd:VisitRegistration"
+        SERVICENAME_DOSTUP="STORAGE:opacholdd:InfoAbout"
+        SERVICENAME_CANCEL="STORAGE:opacholdd:ToCancel"
+        
+        WEBURL="http://localhost/api/v1/"
+        WEBURL_DOSTUP="http://212.45.19.246:8085/cgiopac/opacg/direct.exe"
+        WEBURL_CANCEL = "http://opac.rgdb.ru/cgiopac/opacg/direct.exe"
+        
+        CLIENTSECRET="XXX"  
+        CLIENTID="354FE540-6100-436F-A212-7B29C4D09544"  
+        SCOPE="read write"  
+        
+        WEBVERSION="1.1.1"
+        WEBVERSION_DOSTUP="1.1.1"
+        WEBVERSION_CANCEL="1.0.0"
+        
+        AUTOCLOSETIME="120"
+        WEBUSER="ADMIN" 
+        WEBPASSWORD="ADMIN"  
+
+        FROMBIBL="TESTDROP"
+        MODE="visit"  
+        SESSION_CANCEL="1" 
+        
+        SERVERTYPE="UDP4"
+        CLIENTPORT="5678"
+        
+        PAYLOAD="1"
+        PAYLOADBANK="1"
+        PAYLOADLEN="1"
+        PAYLOADOFFSET="0"
+        PAYLOADPASS="16"
+        PAYLOADFILE="BANK_"
+        
+        ></config>

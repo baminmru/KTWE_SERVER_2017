@@ -1,0 +1,8 @@
+C:\bami\Projects\Savilov_server\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.dll
+C:\bami\Projects\Savilov_server\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.pdb
+C:\bami\Projects\Savilov_server\KTWE_Processor\obj\Debug\KTWE_processorLib.csprojResolveAssemblyReference.cache
+C:\LATIR\Generated\Generated Dlls\Readers.xml
+C:\LATIR\Generated\Generated Dlls\KTWE2_PROCESSORLIB.dll
+C:\LATIR\Generated\Generated Dlls\KTWE2_PROCESSORLIB.pdb
+C:\bami\Projects\Savilov_server\KTWE_UDPProcessor\obj\Debug\KTWE2_PROCESSORLIB.dll
+C:\bami\Projects\Savilov_server\KTWE_UDPProcessor\obj\Debug\KTWE2_PROCESSORLIB.pdb

@@ -1,0 +1,2 @@
+2014.02.12 11:19:25.364 Error while staring TCP Server :Требуемый адрес для своего контекста неверен
+2014.02.12 11:19:25.364 Stopping server and exit, service start new one. (192.168.3.199:5678)

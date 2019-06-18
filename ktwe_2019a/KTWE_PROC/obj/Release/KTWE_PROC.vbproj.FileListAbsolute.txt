@@ -1,0 +1,16 @@
+C:\bami\Projects\Savilov_server\KTWE_PROC\bin\Release\Readers.xml
+C:\bami\Projects\Savilov_server\KTWE_PROC\bin\Release\KTWEConfig.xml
+C:\bami\Projects\Savilov_server\KTWE_PROC\bin\Release\KTWE_PROC.exe.config
+C:\bami\Projects\Savilov_server\KTWE_PROC\bin\Release\KTWE_PROC.exe
+C:\bami\Projects\Savilov_server\KTWE_PROC\bin\Release\KTWE_PROC.pdb
+C:\bami\Projects\Savilov_server\KTWE_PROC\bin\Release\KTWE_PROC.xml
+C:\bami\Projects\Savilov_server\KTWE_PROC\bin\Release\KTWE2_PROCESSORLIB.dll
+C:\bami\Projects\Savilov_server\KTWE_PROC\bin\Release\KTWE_PROCESSORLIB.dll
+C:\bami\Projects\Savilov_server\KTWE_PROC\bin\Release\KTWE_PROCESSORLIB.pdb
+C:\bami\Projects\Savilov_server\KTWE_PROC\bin\Release\KTWE2_PROCESSORLIB.pdb
+C:\bami\Projects\Savilov_server\KTWE_PROC\obj\Release\KTWE_PROC.vbprojResolveAssemblyReference.cache
+C:\bami\Projects\Savilov_server\KTWE_PROC\obj\Release\KTWE_PROC.Resources.resources
+C:\bami\Projects\Savilov_server\KTWE_PROC\obj\Release\KTWE_PROC.vbproj.GenerateResource.Cache
+C:\bami\Projects\Savilov_server\KTWE_PROC\obj\Release\KTWE_PROC.exe
+C:\bami\Projects\Savilov_server\KTWE_PROC\obj\Release\KTWE_PROC.xml
+C:\bami\Projects\Savilov_server\KTWE_PROC\obj\Release\KTWE_PROC.pdb

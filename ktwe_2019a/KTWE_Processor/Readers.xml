@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Readers>
+    <Ant IP="192.168.3.181" Number="1" Type="R" Mode="ВХОД" Place="B001" Cache="2"></Ant>
+    <Ant IP="192.168.3.181" Number="2" Type="T" Mode="ВЫХОД" Place="B001" Cache="2"></Ant>
+    <Ant IP="192.168.1.182" Number="1" Type="P" Mode="ПРОХОД" Place="B020" Cache="2"></Ant>
+    <Ant IP="192.168.1.182" Number="2" Type="P" Mode="ПРОХОД" Place="B021" Cache="2"></Ant>
+</Readers>

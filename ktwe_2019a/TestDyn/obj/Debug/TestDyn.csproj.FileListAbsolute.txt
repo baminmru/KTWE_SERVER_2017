@@ -1,0 +1,13 @@
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\bin\Debug\TestDyn.exe.config
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\bin\Debug\TestDyn.exe
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\bin\Debug\TestDyn.pdb
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\bin\Debug\Newtonsoft.Json.dll
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\bin\Debug\Newtonsoft.Json.xml
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\obj\Debug\TestDyn.csprojAssemblyReference.cache
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\obj\Debug\TestDyn.Form1.resources
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\obj\Debug\TestDyn.Properties.Resources.resources
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\obj\Debug\TestDyn.csproj.GenerateResource.cache
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\obj\Debug\TestDyn.csproj.CoreCompileInputs.cache
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\obj\Debug\TestDyn.csproj.CopyComplete
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\obj\Debug\TestDyn.exe
+D:\bami\projects\Savilov_server\ktwe_2019a\TestDyn\obj\Debug\TestDyn.pdb

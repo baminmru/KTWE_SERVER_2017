@@ -1,0 +1,13 @@
+D:\bami\projects\Savilov_server\KTWE3_processorlib\bin\Debug\Readers.xml
+D:\bami\projects\Savilov_server\KTWE3_processorlib\bin\Debug\KTWE3_PROCESSORLIB.dll
+D:\bami\projects\Savilov_server\KTWE3_processorlib\bin\Debug\KTWE3_PROCESSORLIB.pdb
+D:\bami\projects\Savilov_server\KTWE3_processorlib\obj\Debug\KTWE3_PROCESSORLIB.dll
+D:\bami\projects\Savilov_server\KTWE3_processorlib\obj\Debug\KTWE3_PROCESSORLIB.pdb
+D:\bami\projects\Savilov_server\KTWE3_processorlib\obj\Debug\KTWE3_processorlib.csprojResolveAssemblyReference.cache
+D:\bami\projects\OLD\Savilov_server_2015\KTWE3_processorlib\bin\Debug\Readers.xml
+D:\bami\projects\OLD\Savilov_server_2015\KTWE3_processorlib\bin\Debug\KTWE3_PROCESSORLIB.dll
+D:\bami\projects\OLD\Savilov_server_2015\KTWE3_processorlib\bin\Debug\KTWE3_PROCESSORLIB.pdb
+D:\bami\projects\OLD\Savilov_server_2015\KTWE3_processorlib\obj\Debug\KTWE3_processorlib.csprojAssemblyReference.cache
+D:\bami\projects\OLD\Savilov_server_2015\KTWE3_processorlib\obj\Debug\KTWE3_processorlib.csproj.CoreCompileInputs.cache
+D:\bami\projects\OLD\Savilov_server_2015\KTWE3_processorlib\obj\Debug\KTWE3_PROCESSORLIB.dll
+D:\bami\projects\OLD\Savilov_server_2015\KTWE3_processorlib\obj\Debug\KTWE3_PROCESSORLIB.pdb

@@ -1,0 +1,10 @@
+C:\LATIR\Generated\Generated Dlls\FRTTServiceController.exe
+C:\LATIR\Generated\Generated Dlls\FRTTServiceController.xml
+C:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Release\ResolveAssemblyReference.cache
+C:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Release\FRTTServiceController.exe
+C:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Release\FRTTServiceController.xml
+D:\LATIR\Generated\Generated Dlls\FRTTServiceController.exe
+D:\LATIR\Generated\Generated Dlls\FRTTServiceController.xml
+D:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Release\ResolveAssemblyReference.cache
+D:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Release\FRTTServiceController.exe
+D:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Release\FRTTServiceController.xml

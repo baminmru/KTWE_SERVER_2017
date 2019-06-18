@@ -1,0 +1,17 @@
+D:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\bin\FRTTServiceController.exe
+D:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\bin\FRTTServiceController.pdb
+D:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\bin\FRTTServiceController.xml
+D:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Debug\ResolveAssemblyReference.cache
+D:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Debug\FRTTServiceController.exe
+D:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Debug\FRTTServiceController.xml
+D:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Debug\FRTTServiceController.pdb
+C:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\bin\FRTTServiceController.exe
+C:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\bin\FRTTServiceController.pdb
+C:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\bin\FRTTServiceController.xml
+C:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Debug\ResolveAssemblyReference.cache
+C:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Debug\FRTTServiceController.exe
+C:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Debug\FRTTServiceController.xml
+C:\BAMI\Projects\FRTT\FRTT_EVENT\FRTT_ServiceController\obj\Debug\FRTTServiceController.pdb
+C:\bami\Projects\APG\Server\APGServiceController\obj\Debug\FRTTServiceController.exe
+C:\bami\Projects\APG\Server\APGServiceController\obj\Debug\FRTTServiceController.xml
+C:\bami\Projects\APG\Server\APGServiceController\obj\Debug\FRTTServiceController.pdb

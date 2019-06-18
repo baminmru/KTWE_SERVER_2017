@@ -1,0 +1,12 @@
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\bin\Debug\Readers.xml
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\bin\Debug\KTWE4_PROCESSORLIB.dll
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\bin\Debug\KTWE4_PROCESSORLIB.pdb
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\obj\Debug\KTWE4_processorlib.csproj.CoreCompileInputs.cache
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\obj\Debug\KTWE4_PROCESSORLIB.dll
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\obj\Debug\KTWE4_PROCESSORLIB.pdb
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\bin\Debug\RESTClient.dll
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\bin\Debug\Newtonsoft.Json.dll
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\bin\Debug\RESTClient.pdb
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\bin\Debug\Newtonsoft.Json.xml
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\obj\Debug\KTWE4_processorlib.csprojAssemblyReference.cache
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE4_processorlib\obj\Debug\KTWE4_processorlib.csproj.CopyComplete

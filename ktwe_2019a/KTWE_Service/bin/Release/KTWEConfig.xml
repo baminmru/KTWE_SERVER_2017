@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config ServerIP="127.0.0.1" Port="5678" SERVICENAME="STORAGE:opacholdd:VisitRegistration"
+        AUTOCLOSETIME="120"
+        WEBUSER="ADMIN" 
+        WEBPASSWORD="ADMIN"  
+        WEBVERSION="1.1.1"
+        WEBURL="http://212.45.19.246:8085/cgiopac/opacg/direct.exe"
+        SERVERTYPE="UDP"
+        CLIENTPORT="6789"
+        ></config>

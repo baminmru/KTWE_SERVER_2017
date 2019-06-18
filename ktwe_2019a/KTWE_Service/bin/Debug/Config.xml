@@ -1,0 +1,13 @@
+<Config 
+DataSource="baminote2\sqlexpress"
+Database="apg"
+UserID="sa"
+Password="bami" 
+LogPath="c:\log\"
+FogotTime ="30"
+>
+</Config>
+
+
+
+        

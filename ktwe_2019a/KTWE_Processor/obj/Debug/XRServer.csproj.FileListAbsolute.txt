@@ -1,0 +1,4 @@
+C:\LATIR\Generated\Generated Dlls\XRServer.dll
+C:\LATIR\Generated\Generated Dlls\XRServer.pdb
+C:\bami\Projects\FRTT\FRTT_XRServer\XRServer\obj\Debug\XRServer.dll
+C:\bami\Projects\FRTT\FRTT_XRServer\XRServer\obj\Debug\XRServer.pdb

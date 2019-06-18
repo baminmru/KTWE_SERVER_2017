@@ -1,0 +1,12 @@
+C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe.config
+C:\bami\Projects\Savilov_server\KTWE_Service\obj\x86\Debug\KTWEService.KTWEReaderService.resources
+C:\bami\Projects\Savilov_server\KTWE_Service\obj\x86\Debug\KTWEService.Resources.resources
+C:\bami\Projects\Savilov_server\KTWE_Service\obj\x86\Debug\KTWEService.vbproj.GenerateResource.Cache
+C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe
+C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.pdb
+C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.xml
+C:\bami\Projects\Savilov_server\KTWE_Service\obj\x86\Debug\KTWEService.KTWEServiceInstaller.resources
+C:\bami\Projects\Savilov_server\KTWE_Service\obj\x86\Debug\KTWEService.exe
+C:\bami\Projects\Savilov_server\KTWE_Service\obj\x86\Debug\KTWEService.xml
+C:\bami\Projects\Savilov_server\KTWE_Service\obj\x86\Debug\KTWEService.pdb
+C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\Readers.xml

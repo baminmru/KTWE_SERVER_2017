@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Readers>
+  <Reader IP="192.168.3.181" >
+    <Ant Number="1" Type="T" Mode="IN" Place="ВХОД"></Ant>
+    <Ant Number="2" Type="T" Mode="OUT" Place="ВЫХОД"></Ant>
+  </Reader>
+  <Reader IP="192.168.3.182" >
+    <Ant Number="1" Type="P" Mode="IN" Place="ХОЛЛ_ВХОД"></Ant>
+    <Ant Number="2" Type="P" Mode="OUT" Place="ХОЛЛ_ВЫХОД"></Ant>
+  </Reader>
+</Readers>

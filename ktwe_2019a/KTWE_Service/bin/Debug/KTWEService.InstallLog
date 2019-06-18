@@ -1,0 +1,34 @@
+﻿Выполняется установка сборки 'C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe
+   logfile = C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.InstallLog
+Устанавливается служба KTWEReaderService...
+Служба KTWEReaderService успешно установлена.
+Создается исходный EventLog KTWEReaderService в журнале Application...
+Выполняется фиксация сборки 'C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe
+   logfile = C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.InstallLog
+Выполняется удаление сборки 'C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe
+   logfile = C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.InstallLog
+Выполняется удаление источника EventLog KTWEReaderService.
+Выполняется удаление службы KTWEReaderService из системы...
+Служба KTWEReaderService успешно удалена из системы.
+Выполняется установка сборки 'C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe
+   logfile = C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.InstallLog
+Устанавливается служба KTWEReaderService...
+Служба KTWEReaderService успешно установлена.
+Создается исходный EventLog KTWEReaderService в журнале Application...
+Выполняется фиксация сборки 'C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.exe
+   logfile = C:\bami\Projects\Savilov_server\KTWE_Service\bin\Debug\KTWEService.InstallLog

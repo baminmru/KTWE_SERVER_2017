@@ -1,0 +1,19 @@
+C:\bami\Projects\Savilov_server\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.dll
+C:\bami\Projects\Savilov_server\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.pdb
+C:\LATIR\Generated\Generated Dlls\Readers.xml
+C:\LATIR\Generated\Generated Dlls\KTWE_PROCESSORLIB.dll
+C:\LATIR\Generated\Generated Dlls\KTWE_PROCESSORLIB.pdb
+E:\bami\Projects\Savilov_server\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.dll
+E:\bami\Projects\Savilov_server\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.pdb
+E:\bami\Projects\Savilov_server\KTWE_Processor\obj\Debug\KTWE_processorLib.csprojResolveAssemblyReference.cache
+D:\bami\projects\Savilov_server\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.dll
+D:\bami\projects\Savilov_server\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.pdb
+D:\bami\projects\Savilov_server\KTWE_Processor\obj\Debug\KTWE_processorLib.csprojResolveAssemblyReference.cache
+D:\bami\projects\OLD\Savilov_server_2015\KTWE_Processor\obj\Debug\KTWE_processorLib.csprojAssemblyReference.cache
+D:\bami\projects\OLD\Savilov_server_2015\KTWE_Processor\obj\Debug\KTWE_processorLib.csproj.CoreCompileInputs.cache
+D:\bami\projects\OLD\Savilov_server_2015\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.dll
+D:\bami\projects\OLD\Savilov_server_2015\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.pdb
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE_Processor\obj\Debug\KTWE_processorLib.csproj.CoreCompileInputs.cache
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.dll
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE_Processor\obj\Debug\KTWE_PROCESSORLIB.pdb
+D:\bami\projects\Savilov_server\ktwe_2019a\KTWE_Processor\obj\Debug\KTWE_processorLib.csprojAssemblyReference.cache
